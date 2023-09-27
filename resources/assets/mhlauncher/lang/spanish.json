@@ -1,0 +1,19 @@
+{
+  "gui.main.singleplayer": "Un Jugador",
+  "gui.main.multiplayer": "Multijugador",
+  "gui.multiplayer.host": "Hospedar",
+  "gui.multiplayer.join": "Unirse",
+  "gui.host.start": "Comenzar",
+  "gui.join.start": "Comenzar",
+
+  "gui.error.engine": "¡GZDoom no encontrado!",
+  "gui.error.directory": "¡Directorio del juego no encontrado!",
+  "gui.error.files": "¡Algunos archivos no encontrados!",
+  "gui.error.ip": "¡La dirección IP está vacía!",
+
+  "gui.maps.shelter": "Refugio",
+  "gui.maps.night": "Noche %s",
+
+  "gui.popup.copy": "Copiar",
+  "gui.popup.paste": "Pegar"
+}

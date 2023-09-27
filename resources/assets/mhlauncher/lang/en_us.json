@@ -1,0 +1,19 @@
+{
+  "gui.main.singleplayer": "Singleplayer",
+  "gui.main.multiplayer": "Multiplayer",
+  "gui.multiplayer.host": "Host",
+  "gui.multiplayer.join": "Join",
+  "gui.host.start": "Start",
+  "gui.join.start": "Join",
+
+  "gui.error.engine": "GZDoom Not Found!",
+  "gui.error.directory": "Game Folder Not Found!",
+  "gui.error.files": "Some Game Files Not Found!",
+  "gui.error.ip": "Host Ip Is Empty!",
+
+  "gui.maps.shelter": "Shelter",
+  "gui.maps.night": "Night %s",
+
+  "gui.popup.copy": "Copy",
+  "gui.popup.paste": "Paste"
+}
